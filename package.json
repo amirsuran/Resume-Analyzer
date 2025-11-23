@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "Resume Analyzer",
   "private": true,
   "scripts": {
     "build": "turbo run build",
