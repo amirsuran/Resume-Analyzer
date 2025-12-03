@@ -64,6 +64,8 @@ pnpm exec turbo build --filter=docs
 
 To develop all apps and packages, run the following command:
 
+need to edit here ## @@
+
 ```
 cd my-turborepo
 
