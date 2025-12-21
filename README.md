@@ -139,4 +139,4 @@ Learn more about the power of Turborepo:
 - [CLI Usage](https://turborepo.com/docs/reference/command-line-reference)
 
 need to think again
-push on
+pus
