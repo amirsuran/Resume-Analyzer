@@ -18,7 +18,7 @@ export function Hero() {
           Analyze My Resume
         </Button>
         <Button className="w-full sm:w-auto" size="lg" variant="outline">
-          HR / Company Login
+          HR / Company Analyze
         </Button>
       </div>
     </section>
