@@ -1,5 +1,5 @@
-import { Button } from "@repo/ui/button";
-import { DotPattern } from "@repo/ui/magicui";
+import { Button } from "@/components/ui/button";
+import { DotPattern } from "@/components/magicui";
 
 export function Navbar() {
   return (
@@ -28,7 +28,7 @@ export function Navbar() {
           <Button variant="outline" size="sm">
             Login
           </Button>
-          <Button variant="primary" size="sm">
+          <Button variant="default" size="sm">
             Get Started
           </Button>
         </div>

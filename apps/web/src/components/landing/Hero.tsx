@@ -1,5 +1,5 @@
-import { AnimatedShinyText } from "@repo/ui/magicui";
-import { Button } from "@repo/ui/button";
+import { AnimatedShinyText } from "@/components/magicui";
+import { Button } from "@/components/ui/button";
 
 export function Hero() {
   return (
@@ -14,7 +14,7 @@ export function Hero() {
         Discover tailored job opportunities with our advanced resume analysis.
       </p>
       <div className="mt-12 flex gap-4">
-        <Button variant="primary" size="lg">
+        <Button variant="default" size="lg">
           Get Started
         </Button>
         <Button variant="outline" size="lg">
