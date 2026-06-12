@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { DotPattern } from "@/components/magicui";
+import { DotPattern } from "@/components/magicui/dot-pattern";
 
 export function Navbar() {
   return (

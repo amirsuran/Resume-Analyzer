@@ -1,4 +1,4 @@
-import { AnimatedShinyText } from "@/components/magicui";
+import { AnimatedShinyText } from "@/components/magicui/animated-shiny-text";
 import { Button } from "@/components/ui/button";
 
 export function Hero() {
