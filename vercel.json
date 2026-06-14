@@ -1,13 +1,9 @@
 {
-  "version": 3,
-  "projects": {
-    "frontend": {
-      "root": "apps/web"
+  "version": 2,
+  "routes": [
+    {
+      "src": "\/(.*)",
+      "dest": "apps/web/$1"
     }
-  },
-  "build": {
-    "env": {
-      "NODE_OPTIONS": "--experimental-specifier-resolution=node"
-    }
-  }
+  ]
 }
