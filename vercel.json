@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "projects": {
+    "frontend": {
+      "root": "apps/web"
+    }
+  },
+  "build": {
+    "env": {
+      "NODE_OPTIONS": "--experimental-specifier-resolution=node"
+    }
+  }
+}
