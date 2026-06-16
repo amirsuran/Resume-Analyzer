@@ -7,7 +7,7 @@ export function Hero() {
     <section className="relative flex min-h-[85vh] w-full flex-col items-center justify-center bg-white px-6 py-24">
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
 
-      <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-b from-transparent to-white pointer-events-none" />
+      <div className="absolute inset-x-0 bottom-0 h-40 bg-linear-to-b from-transparent to-white pointer-events-none" />
 
       <div className="relative z-10 flex w-full max-w-4xl flex-col items-center text-center">
         <div className="mb-6 inline-flex items-center rounded-full border border-slate-200 bg-white px-3 py-1 shadow-sm">
