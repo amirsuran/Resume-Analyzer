@@ -32,9 +32,7 @@ export function Hero() {
 
           {/* Subtitle */}
           <p className="mt-6 text-lg text-slate-600 sm:text-xl leading-relaxed">
-            Transform resumes into structured intelligence. Surface candidate
-            strengths instantly and match talent to opportunities with precise
-            AI analysis.
+            should be a text
           </p>
 
           {/* Secondary Action for HR */}
